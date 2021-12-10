@@ -4,6 +4,10 @@
 
 ### Language Support for Java by Red Hat
 
+### Checkstyle for Java
+
+### SonarLint
+
 ### Debugger for Java
 
 ### Java Test Runner
