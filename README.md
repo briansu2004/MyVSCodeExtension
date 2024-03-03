@@ -28,3 +28,6 @@ markdown paste (image)
 - Docker
 - Kubernetes
 - Unit test
+- GitHub
+- Theme
+- ...
