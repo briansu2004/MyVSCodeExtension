@@ -6,9 +6,9 @@ My Visual Studio Code Extension
 
 Color palettes
 
-![](image/README/Lemon-Meringue-Prussian-Blue-Color-Palette.png)
+![Lemon-Meringue-Prussian-Blue-Color-Palette](image/README/Lemon-Meringue-Prussian-Blue-Color-Palette.png)
 
-![](image/README/wordpress-admin-color-palette-WP57.png)
+![Wordpress Admin Color Palette](image/README/wordpress-admin-color-palette-WP57.png)
 
 ## Markdown
 
